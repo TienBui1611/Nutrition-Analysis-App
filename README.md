@@ -1,2 +1,2 @@
 # Nutrition-Analysis-App
-A Python nutrition analysis project
+A modular GUI-based nutrition insights tool built by Python for food data exploration and comparison.
