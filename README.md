@@ -1,5 +1,5 @@
 # Nutrition-Analysis-App
-A modular GUI-based nutrition insights tool built by Python for food data exploration and comparison.
+A modular GUI-based nutrition insights tool built by Python for food data exploration and comparison. Has been completed in collaboration with `@alexander-cavalliotis` and `@LucasBr1624`
 
 ## 🚀 How to Run the Project (Using PyCharm)
 
