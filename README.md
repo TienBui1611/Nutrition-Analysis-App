@@ -8,7 +8,7 @@
 
 ---
 
-**Team Contributors:** `alexander-cavalliotis`, `LucasBr1624`, and `Bui-Cong-Chinh` with equal contributions (33.33% each).
+**Team Contributors:** `alexander-cavalliotis`, `LucasBr1624`, and `TienBui1611` myself with equal contributions (33.33% each).
 
 ## 📋 Requirements
 
